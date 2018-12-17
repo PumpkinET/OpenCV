@@ -2,4 +2,4 @@
 OpenCV air touch calculator
 <br>
 <br>
-![](https://i.imgur.com/51Qpn4T.gif) 
+![](https://i.imgur.com/51Qpn4T.gifv) 
