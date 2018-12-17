@@ -2,4 +2,4 @@
 OpenCV air touch calculator
 <br>
 <br>
-<br>(https://youtu.be/1pBoZTfNBoc) 
+<br>![Alt text](https://i.imgur.com/xi129Ok.gifv?raw=true)
